@@ -1,0 +1,17 @@
+.container-h{
+    border: 2px solid black;
+    width: 400px;
+    background-color: #216869;
+    margin: 0 auto;
+    
+}
+.container-n{
+    background-color: #216869;
+    
+}
+.form-contact{
+    width: 450px !important;
+    margin-top: 10px !important;
+    text-align: center;
+    color: white !important;
+}

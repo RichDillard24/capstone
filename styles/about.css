@@ -1,0 +1,21 @@
+.container-na{
+    background-color: #216869;
+    
+}
+.container-info{
+
+}
+.img-ab{
+    width: 750px;
+    margin: 0  auto;
+}
+
+
+.about-img-container{    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px !important;
+    margin-right: 10px !important
+    
+}

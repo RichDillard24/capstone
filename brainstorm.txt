@@ -1,0 +1,32 @@
+Brief description: studio space for band to come and rehuarse and pactice or recorde
+
+
+Technologies: html, css, js,
+
+
+Color palette: 1f2421, 216869, 49a078, dce1de
+
+
+Pages: home, about, different studio types, equipments, contact, personal
+
+
+Sections: 
+    home: hearder 
+            navbar 
+                footer
+
+    studio: studio 1 rehersal space free 
+            studio 2 lager space 
+            recoding booth 
+            prices
+
+
+    about: full discription of team and idea of how the space was created 
+
+
+    contact: Form for email
+                social icons 
+                address
+
+    equipment: list of different equipment
+                prices

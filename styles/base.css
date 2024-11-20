@@ -1,0 +1,21 @@
+.bg-green{
+    background-color: #49a078 !important;
+}
+body {
+    background-color:  #49a078 !important;
+}
+.img-container{
+    background-color: #216869 !important; 
+    color: white !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    margin-bottom: 10px !important;
+    margin-right: 10px !important;
+}
+p{
+    color: white !important;
+    text-align: center;
+    font-size: 20px;
+}

@@ -1,0 +1,1 @@
+open the project then right click on home.html and run with live server. Then you will be able to use the navbar to see the about, contact, and studios pages.
